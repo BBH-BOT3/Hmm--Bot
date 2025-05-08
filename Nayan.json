@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "BBH-CYBER-BOT",
-  "PREFIX": "$",
+  "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "100000967372029",
